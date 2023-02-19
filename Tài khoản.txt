@@ -1,0 +1,12 @@
+Tài khoản dành cho Admin
+	Email : Admin@gmail.com
+	Password: Admin123
+Tài khoản dành cho Giám đốc khu cách ly
+	Email: Manager@gmail.com
+	Password: Manager123
+Tài khoản dành cho Bác sĩ
+	Email: Doctor@gmail.com
+	Passoword: Doctor123
+Tài khoản dành cho Điều dưỡng
+	Email: Nursing@gmail.com
+	Password: Nursing123
